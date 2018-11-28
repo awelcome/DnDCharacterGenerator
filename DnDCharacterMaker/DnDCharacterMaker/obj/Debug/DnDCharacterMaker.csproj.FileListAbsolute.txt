@@ -1,0 +1,48 @@
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe.config
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.GeneratedCharacterPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.NewCharacterPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.StartPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.Properties.Resources.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe.config
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.GeneratedCharacterPage.resources
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.NewCharacterPage.resources
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.StartPage.resources
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.Properties.Resources.resources
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.GenerateResource.cache
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\Documents\School Work\CIS 440\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe.config
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.GeneratedCharacterPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.NewCharacterPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.StartPage.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.Properties.Resources.resources
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\source\repos\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe.config
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\bin\Debug\DnDCharacterMaker.pdb
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.GeneratedCharacterPage.resources
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.NewCharacterPage.resources
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.StartPage.resources
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.Properties.Resources.resources
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.GenerateResource.cache
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.exe
+C:\Users\Tony\Downloads\DnDCharacterMaker\DnDCharacterMaker\DnDCharacterMaker\obj\Debug\DnDCharacterMaker.pdb
